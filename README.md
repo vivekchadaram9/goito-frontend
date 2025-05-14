@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # goito-frontend
 This is a boilerplate code for goito
 =======
+=======
+>>>>>>> 3c08d957e9cd54c3c4b0792f06731c5ca86fa09e
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -38,4 +41,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<<<<<<< HEAD
 >>>>>>> 3c08d95 (Initial boiler plate code should cleanup few)
+=======
+>>>>>>> 3c08d957e9cd54c3c4b0792f06731c5ca86fa09e
